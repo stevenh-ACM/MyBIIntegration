@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyStoreIntegration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">24BDA73B-4C22-C88C-966A-B1D7BE53E1B1@MyStore</Value>
+    </Setting>
+    <Setting Name="ClientSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">86hSHkP2I7FtYOEd8GbjbA</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="Scope" Type="System.String" Scope="User">
+      <Value Profile="(Default)">api</Value>
+    </Setting>
+    <Setting Name="IdentityEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://acu-demos.us/mystoreinstance/identity/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
